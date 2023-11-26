@@ -1,0 +1,31 @@
+.cardDesign{
+    margin: 0px !important;
+    background-color: darkred;
+    border-radius: 5px;
+}
+.dataName{
+    color: black;
+    font-weight: 200;
+}
+.dataGo{
+    display: flex;
+    justify-content: center;
+    margin-top: 4px;
+}
+.cardAllData{
+    display: flex;
+    flex-wrap: wrap;
+}
+#cardPartGo{
+    width: 30%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: left;
+}
+.priceClass{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 15px;
+}
